@@ -1,0 +1,4 @@
+
+PyMuPDF==1.21.1
+matplotlib==3.7.1
+```
